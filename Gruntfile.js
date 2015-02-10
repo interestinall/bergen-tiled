@@ -67,6 +67,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-sass');
+    grunt.loadNpmTasks('grunt-uncss');
     // Default task(s).
     grunt.registerTask('default', ['uglify:dev', 'sass:dev']);
     grunt.registerTask('build', ['uglify:build', 'sass:build']);

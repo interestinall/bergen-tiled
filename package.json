@@ -21,6 +21,7 @@
     "grunt-contrib-sass": "^0.8.1",
     "grunt-contrib-uglify": "^0.7.0",
     "grunt-contrib-watch": "^0.6.1",
+    "grunt-uncss": "^0.4.0",
     "node-bourbon": "^1.2.3",
     "node-neat": "^1.4.2"
   }
