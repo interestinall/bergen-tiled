@@ -2,6 +2,13 @@ body {
   margin: 0;
   padding: 0;
   background: #369;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  padding-right: 5px;
+  min-width: 300px;
 }
 
 /*# sourceMappingURL=style.css.map */

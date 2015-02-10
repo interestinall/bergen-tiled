@@ -1,7 +1,17 @@
 //hello world
 
+$background : #369;
+
 body{
 	margin: 0;
 	padding: 0;
-	background: #369;
+	background : $background;
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	padding-right: 5px;
+	min-width: 300px;
+
 }
